@@ -1,16 +1,48 @@
-## Hi there 👋
+<pre>
+                                                                          
+                                                                                           
+   ▄▄▄  ▀▀█                      █    ▀                  ▄▄▄▄▄                             
+ ▄▀   ▀   █     ▄▄▄   ▄   ▄   ▄▄▄█  ▄▄▄     ▄▄▄          █    █ ▄   ▄   ▄▄▄   ▄ ▄▄    ▄▄▄  
+ █        █    ▀   █  █   █  █▀ ▀█    █    █▀ ▀█         █▄▄▄▄▀ █   █  █▀ ▀█  █▀  █  █▀ ▀█ 
+ █        █    ▄▀▀▀█  █   █  █   █    █    █   █         █    █ █   █  █   █  █   █  █   █ 
+  ▀▄▄▄▀   ▀▄▄  ▀▄▄▀█  ▀▄▄▀█  ▀█▄██  ▄▄█▄▄  ▀█▄█▀         █▄▄▄▄▀ ▀▄▄▀█  ▀█▄█▀  █   █  ▀█▄█▀ 
+                                                                                           
+                                                                                          
+Full stack developer who turns bugs into features and, one day, ideas into videogames.
+Powered by video games, movies, music and anything that counts as art.
 
-<!--
-**ClaudioBuono/ClaudioBuono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------
+Contacts
 
-Here are some ideas to get you started:
+» Portfolio  → <a href="https://claudiobuono.github.io/portfolio/">My website</a>
+» Email      → <a href="claudio.buono17@gmail.com">claudio.buono17@gmail.com</a>
+» Linkedin   → <a href="https://www.linkedin.com/in/claudio-buono/">ClaudioBuono</a>
+                                                                        
+--------------
+Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+» MSc Software Engineering & IT Management (LM-18), <a href="https://corsi.unisa.it/informatica-magistrale/en/home">UniSa</a>: in progress
+» BSc Computer Science (L-31), <a href="https://corsi.unisa.it/INFORMATICA/en/home">UniSa</a>: graduated 2024
+
+--------------
+Skills & Tools
+
+» Game Engines: Godot, Unity
+» Frontend:     React, Typescript, Javascript, Next.js, Tailwind CSS,
+» Backend:      GDScript, C#, Python, Node.js, Express, C
+
+-----------------
+Featured projects
+
+● WordWarpVR: Unleash the Power of Words
+  ✦ Tags: Unity3D, C#, Virtual Reality
+
+● NPC Dialogue Middleware
+  ✦ Tags: Python, LLM, Game Engines
+
+● Evopath
+  ✦ Tags: Python, AI
+
+--------------------------
+Keep on keepin' on!
+</pre>
