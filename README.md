@@ -8,7 +8,7 @@
   ▀▄▄▄▀   ▀▄▄  ▀▄▄▀█  ▀▄▄▀█  ▀█▄██  ▄▄█▄▄  ▀█▄█▀         █▄▄▄▄▀ ▀▄▄▀█  ▀█▄█▀  █   █  ▀█▄█▀ 
                                                                                            
                                                                                           
-Full stack developer who turns bugs into features and, one day, ideas into videogames.
+Full stack developer who turns bugs into features and, maybe one day, ideas into videogames.
 Powered by video games, movies, music and anything that counts as art.
 
 ---------------
@@ -27,22 +27,28 @@ Education
 --------------
 Skills & Tools
 
-» Game Engines: Godot, Unity
-» Frontend:     React, Typescript, Javascript, Next.js, Tailwind CSS,
-» Backend:      GDScript, C#, Python, Node.js, Express, C
+» Game Dev:   Godot, Unity, GDScript, C#
+» Frontend:   React, TypeScript, JavaScript, Tailwind CSS
+» Backend:    Python, Node.js, Java, C
+» Databases:  MySQL, MongoDB
+» Tools: Git, Docker, Figma
 
 -----------------
 Featured projects
 
 ● WordWarpVR: Unleash the Power of Words
-  ✦ Tags: Unity3D, C#, Virtual Reality
+  ✦ Tags: An immersive VR game designed for English language learning through voice interaction and vocabulary building.
+  ✦ Tags: Unity3D, C#, Virtual Reality, TTS, VTT
 
 ● NPC Dialogue Middleware
-  ✦ Tags: Python, LLM, Game Engines
+  ✦ About: A flexible middleware system for dynamic LLM-driven NPC dialogue generation, integrable with game engines.
+  ✦ Tags: Python, AI, LLM, Game Engines
 
-● Evopath
-  ✦ Tags: Python, AI
+● Evopath:
+  ✦ About: Map generation using genetic algorithms
+  ✦ Tags: Python, AI, Genetic Algorithm, Godot
 
 --------------------------
-Keep on keepin' on!
+  
+Let it happen'!
 </pre>
