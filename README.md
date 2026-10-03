@@ -8,8 +8,8 @@
   ▀▄▄▄▀   ▀▄▄  ▀▄▄▀█  ▀▄▄▀█  ▀█▄██  ▄▄█▄▄  ▀█▄█▀         █▄▄▄▄▀ ▀▄▄▀█  ▀█▄█▀  █   █  ▀█▄█▀ 
                                                                                            
                                                                                           
-Full stack developer who turns bugs into features and, maybe one day, ideas into videogames.
-Powered by video games, movies, music and anything that counts as art.
+Full stack and game developer who turns bugs into features and ideas into videogames.
+Fueled by videogames, cinema, music, and every form of art.
 
 ---------------
 Contacts
@@ -45,7 +45,7 @@ Featured projects
   ✦ Tags: Python, AI, LLM, Game Engines
 
 ● Evopath:
-  ✦ About: Map generation using genetic algorithms
+  ✦ About: Procedural generation of map grid layouts via evolutionary algorithms.
   ✦ Tags: Python, AI, Genetic Algorithm, Godot
 
 --------------------------
