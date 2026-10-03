@@ -31,7 +31,7 @@ Skills & Tools
 » Frontend:   React, TypeScript, JavaScript, Tailwind CSS
 » Backend:    Python, Node.js, Java, C
 » Databases:  MySQL, MongoDB
-» Tools: Git, Docker, Figma
+» Tools:      Git, Docker, Figma
 
 -----------------
 Featured projects
