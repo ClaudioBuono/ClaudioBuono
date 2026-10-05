@@ -8,7 +8,7 @@
   ▀▄▄▄▀   ▀▄▄  ▀▄▄▀█  ▀▄▄▀█  ▀█▄██  ▄▄█▄▄  ▀█▄█▀         █▄▄▄▄▀ ▀▄▄▀█  ▀█▄█▀  █   █  ▀█▄█▀ 
                                                                                            
                                                                                           
-Full stack and game developer who turns bugs into features and ideas into videogames.
+Full stack and indie game developer who turns bugs into features and ideas into videogames.
 Fueled by videogames, cinema, music, and every form of art.
 
 ---------------
