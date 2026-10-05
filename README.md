@@ -14,7 +14,6 @@ Fueled by videogames, cinema, music, and every form of art.
 ---------------
 Contacts
 
-» Portfolio  → <a href="https://claudiobuono.github.io/portfolio/">My website</a>
 » Email      → <a href="claudio.buono17@gmail.com">claudio.buono17@gmail.com</a>
 » Linkedin   → <a href="https://www.linkedin.com/in/claudio-buono/">ClaudioBuono</a>
                                                                         
