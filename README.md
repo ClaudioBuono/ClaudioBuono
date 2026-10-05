@@ -40,11 +40,11 @@ Featured projects
   ✦ Tags: An immersive VR game designed for English language learning through voice interaction and vocabulary building.
   ✦ Tags: Unity3D, C#, Virtual Reality, TTS, VTT
 
-● NPC Dialogue Middleware
+● NPC Dialogue Middleware [In Progress]
   ✦ About: A flexible middleware system for dynamic LLM-driven NPC dialogue generation, integrable with game engines.
   ✦ Tags: Python, AI, LLM, Game Engines
 
-● Evopath:
+● Evopath
   ✦ About: Procedural generation of map grid layouts via evolutionary algorithms.
   ✦ Tags: Python, AI, Genetic Algorithm, Godot
 
