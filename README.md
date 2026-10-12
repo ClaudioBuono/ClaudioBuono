@@ -11,7 +11,7 @@
 Full stack and indie game developer who turns bugs into features and ideas into videogames.
 Fueled by videogames, cinema, music, and every form of art.
 
----------------
+--------------
 Contacts
 
 » Email      → <a href="claudio.buono17@gmail.com">claudio.buono17@gmail.com</a>
@@ -32,7 +32,7 @@ Skills & Tools
 » Databases:  MySQL, MongoDB
 » Tools:      Git, Docker, Figma
 
---------------------------
+--------------
   
 Let it happen'!
 </pre>
